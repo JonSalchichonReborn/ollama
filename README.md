@@ -2,9 +2,12 @@
 
 A clean, modern, responsive chat interface for a locally running [Ollama](https://ollama.com) instance.
 No build step, no framework, no backend of its own — it talks straight to `http://localhost:11434`.
+Llama3 + Qwen3 Chatbot Opensource Local ai Chatbot Installation, works locally and almost with any acceptable pc, I created this software with and run it on a mini-pc 14 gb ram.
+no credit card required, open source.
+![stack](https://img.shields.io/badge/stack-vanilla%20JS%20%2B%20Tailwind-15b79e)C
 
-![stack](https://img.shields.io/badge/stack-vanilla%20JS%20%2B%20Tailwind-15b79e)
-
+requirements 
+12 gb ram
 ---
 Free Easy Installation in 4 simple steps using free tier of ai software https://trae.ai service no credit card required
 1 Download or pull the files from this repo and place them in a new created file named local-ai-chat in your documents folder
